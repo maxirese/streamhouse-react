@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import TiraProductos from './components/TiraProductos';
 
 function App() {
   return (
